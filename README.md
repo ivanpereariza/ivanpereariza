@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ivan Pereiro</h1>
 <h3 align="center">A passionate Full Stack Web Developer from Spain</h3>
+<br/>
 
 - 🌱 I’m currently learning **TypeScript and NextJS**
 
